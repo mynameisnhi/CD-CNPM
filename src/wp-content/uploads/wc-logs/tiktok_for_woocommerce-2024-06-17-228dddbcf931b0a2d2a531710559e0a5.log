@@ -1,0 +1,22 @@
+2024-06-17T07:54:29+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_666febb50e411httplocalhost8082wp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost:8082\/wp-admin\/"}
+ ajax: no
+2024-06-17T07:54:29+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+2024-06-17T07:54:29+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+2024-06-17T07:54:29+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+2024-06-17T07:54:29+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 6: Could not resolve host: ads.tiktok.com
+2024-06-17T08:15:00+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-06-17T08:15:00+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2024-06-17T08:17:48+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-06-17T08:17:48+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2024-06-17T08:23:01+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-06-17T08:23:01+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
